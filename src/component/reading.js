@@ -12,7 +12,7 @@ export default function Reading() {
         <div className="bg-gray-100 flex flex-col items-center justify-center p-5">
           <div className="flex justify-center items-center space-x-4 bg-white p-8 rounded-lg shadow-lg">
         <div className="w-1/2">
-            <video src="vid.mp4" controls></video>
+            <video src="https://jsw-personal.s3.ap-northeast-2.amazonaws.com/vid.mp4" controls></video>
         </div>
         <div className="w-1/2 text-gray-700" id="book-text">
                 
